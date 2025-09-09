@@ -1,0 +1,10 @@
+{
+  "name": "english-janala",
+  "version": "1.0.0",
+  "description": "English Janala web project with Tailwind CSS and DaisyUI via CDN.",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": ["tailwindcss", "daisyui", "cdn", "english-janala"],
+  "author": "",
+  "license": "ISC"
+}
